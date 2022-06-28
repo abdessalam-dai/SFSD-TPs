@@ -1,0 +1,6 @@
+123;A;B;IT
+231232;Z;T;CS
+3;Asdjkl;Asdlh;s
+223;A;C;d
+12093812;Haskdh;Asdhas;3
+1;S;S;s
